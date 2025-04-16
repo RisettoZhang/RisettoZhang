@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 
-- Email: your@email.com  
-- LinkedIn: [your-link](https://linkedin.com/in/your-name)
+- Email: zczsdwf@gmail.com
+- LinkedIn: www.linkedin.com/in/chongzhi-zhang
 
 ## 💡 Motto
 > "Build systems, not just models."
