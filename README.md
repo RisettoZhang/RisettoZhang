@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-AI Specialist | Full-stack ML Developer | Researcher  
-Johns Hopkins University
-Based in Hong Kong | Open to opportunities!
+- AI Specialist | Full-stack ML Developer | Researcher  
+- Johns Hopkins University
+- Based in Hong Kong | Open to opportunities!
 
 ## Skills
 
