@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ## Skills
 
-`Python` `PyTorch` `Flask` `AutoML` `Feature Engineering`  
-`Git` `Linux` `Docker` `Database` `Notion`
 <div class="shields1">
   <img src="https://shields.io/badge/Python-3C873A?style=flat&logo=python&logoColor=white">
   <img src="https://shields.io/badge/Pytorch-ffa500?style=flat&logo=pytorch&logoColor=white">
