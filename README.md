@@ -25,11 +25,11 @@ Based in Hong Kong | Open to opportunities!
   <img src="https://shields.io/badge/Python-3C873A?style=flat&logo=python&logoColor=white">
   <img src="https://shields.io/badge/Pytorch-ffa500?style=flat&logo=pytorch&logoColor=white">
   <img src="https://shields.io/badge/Flask-666666?style=flat&logo=flask&logoColor=white">
-  <img src="https://shields.io/badge/sklearn-8A2BE2?style=flat&logo=python&logoColor=white">
+  <img src="https://shields.io/badge/sklearn-2acaea?style=flat&logo=python&logoColor=white">
   <br>
   <img src="https://shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white">
   <img src="https://shields.io/badge/Linux-3C873A?style=flat&logo=linux&logoColor=white">
-  <img src="https://shields.io/badge/Docker-2acaea?style=flat&logo=docker&logoColor=white">
+  <img src="https://shields.io/badge/Docker-FFFFFF?style=flat&logo=docker&logoColor=blue">
   <img src="https://shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black">
   <img src="https://shields.io/badge/Database-3C873A?style=flat&logo="fa-solid fa-envelope"&logoColor=white">
   <img src="https://shields.io/badge/Bilibili-CC919A?style=flat&logo=bilibili&logoColor=white">
