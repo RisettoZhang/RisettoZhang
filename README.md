@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ciallo～(∠・ω< )
 
 <!--
 **RisettoZhang/RisettoZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,17 +27,21 @@ Based in Hong Kong | Open to opportunities!
   <img src="https://shields.io/badge/Flask-666666?style=flat&logo=flask&logoColor=white">
   <img src="https://shields.io/badge/sklearn-2acaea?style=flat&logo=python&logoColor=white">
   <br>
-  <img src="https://shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white">
   <img src="https://shields.io/badge/Linux-3C873A?style=flat&logo=linux&logoColor=white">
   <img src="https://shields.io/badge/Docker-FFFFFF?style=flat&logo=docker&logoColor=blue">
   <img src="https://shields.io/badge/Notion-FFFFFF?style=flat&logo=notion&logoColor=black">
   <img src="https://shields.io/badge/Database-3C873A?style=flat&logo="fa-solid fa-envelope"&logoColor=white">
-  <img src="https://shields.io/badge/Bilibili-CC919A?style=flat&logo=bilibili&logoColor=white">
 </div>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-FFFFFF?style=flat&logo=openai&logoColor=black)
 ![Neo4j](https://img.shields.io/badge/Neo4j-FFFFFF?style=flat&logo=neo4j&logoColor=black)
 ![langchain](https://img.shields.io/badge/LangChain-FFFFFF?style=flat&logo=langchain&logoColor=black)
+
+Sosical Media  
+![Github](https://shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white)
+![Bilibil](https://shields.io/badge/Bilibili-CC919A?style=flat&logo=bilibili&logoColor=white)
+
+
 
 ## How to reach me
 
